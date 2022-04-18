@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/ibrahim317)
 
-- 💬 Ask me about **MERN stack and c++**
+- 💬 Ask me about **MERN stack and C++**
 
 - 📫 How to reach me **zeroibrahim49@gmail.com**
 
