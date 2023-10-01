@@ -2,20 +2,18 @@
 <h3 align="center">Student and a passionate full-stack developer from Egypt</h3>
 <h3 align="left">About me:</h3>
 
-
 - 👨‍💻 All of my projects are available at [Github](https://github.com/ibrahim317)
 
 - 💬 Ask me about **MERN stack and C++**
 
-- 📫 How to reach me **zeroibrahim49@gmail.com**
-
-
-
+- 📫 How to reach me **<i.aboelsoud21@gmail.com>**
 
 ## My Skill Set  
+
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -27,13 +25,12 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
@@ -41,9 +38,8 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
@@ -56,7 +52,6 @@
 </td></tr></table>  
 
 <br/>  
-
 
 [![Ibrhaim's github activity graph](https://activity-graph.herokuapp.com/graph?username=ibrahim317&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
