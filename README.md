@@ -2,7 +2,7 @@
 <h3 align="center">Student and a passionate full-stack developer from Egypt</h3>
 <h3 align="left">About me:</h3>
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/ibrahim317)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/ibrahim317?tab=repositories)
 
 - 💬 Ask me about **MERN stack and C++**
 
