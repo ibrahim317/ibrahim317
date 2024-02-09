@@ -63,7 +63,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ibrahim-abo-el-soud-a78aaa213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim-abo-el-soud-a78aaa213" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ibrahimaboelsoud/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim-abo-el-soud-a78aaa213" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14889324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14889324" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/zeroibrahim49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zeroibrahim49" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ibrahimaboelsoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ibrahimaboelsoud" height="30" width="40" /></a>
