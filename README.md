@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/ibrahim317?tab=repositories)
 
-- 💬 Ask me about **MERN stack and NextJS**
+- 💬 Ask me about **NextJS and Laravel**
 
 - 📫 How to reach me **<i.aboelsoud21@gmail.com>**
 
