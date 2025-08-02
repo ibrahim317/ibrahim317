@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrhaim</h1>
-<h3 align="center">CS Student and a passionate full-stack developer from Egypt</h3>
+<h3 align="center">Full-stack developer from Egypt, with time we can build anything!!</h3>
 <h3 align="left">About me:</h3>
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/ibrahim317?tab=repositories)
