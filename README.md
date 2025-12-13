@@ -10,11 +10,10 @@
 
 ## My Skill Set  
 
-<table width="100%">
-<tr><td valign="top">
-
-### Frontend  
-
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>Frontend</h3>
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
@@ -32,7 +31,8 @@
 </div>
 
 
-</td><td valign="top">
+</td>    <td align="center" width="33%">
+
 
 ### Backend  
 
@@ -50,8 +50,7 @@
 
 </td><td valign="top">
 
-### DevOps  
-
+<h3 align="center"> DevOps </h3>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
