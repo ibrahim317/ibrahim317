@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ibrhaim</h1>
-<h3 align="center">Full-stack developer from Egypt, with time we can build anything!!</h3>
+<h3 align="center">Software developer from Egypt, with time we can build anything!!</h3>
 <h3 align="left">About me:</h3>
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/ibrahim317?tab=repositories)
 
-- 💬 Ask me about **NextJS and Laravel**
+- 💬 Ask me about **Web tech**
 
 - 📫 How to reach me **<i.aboelsoud21@gmail.com>**
 
